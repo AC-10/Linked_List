@@ -1,1 +1,1 @@
-#DS - Linked List
+#DS - Singly Linked List
